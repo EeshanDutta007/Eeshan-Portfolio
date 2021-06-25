@@ -1,2 +1,2 @@
 Hosted on github-pages<br/>
-Link to the portfolio: https://tanishabisht.github.io/Eeshan-Portfolio/
+Link to the portfolio: https://EeshanDutta007.github.io/Eeshan-Portfolio/
