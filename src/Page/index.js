@@ -1,3 +1,6 @@
 export { default as Hero } from './hero'
 export { default as Employment } from './employment'
+export { default as Achie } from './achie'
+export { default as Cocum } from './cocum'
+export { default as Marks } from './marks'
 export { default as Projects } from './projects'

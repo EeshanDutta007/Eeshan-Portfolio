@@ -18,5 +18,4 @@ const ProjCard = ({name, duration, content, skillsArr}) => {
 }
 
 
-
 export default ProjCard

@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import {Navbar, Nav} from 'react-bootstrap'
+import {Navbar} from 'react-bootstrap'
 import { Link } from 'react-scroll'
 import './navbar.scss'
 
@@ -13,8 +13,11 @@ const NavbarComponent = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
         <nav className="ml-auto">
-          <Link className='secLink' to="employment" smooth={true}>Employement</Link>
-          <Link className='secLink' to="projects" smooth={true}>Projects</Link>
+        <Link className='secLink' to="employment" smooth={true}>EMPLOYEMENT</Link>
+          <Link className='secLink' to="achie" smooth={true}>ACHIEVEMENTS</Link>
+          <Link className='secLink' to="marks" smooth={true}>MARKS</Link>
+          <Link className='secLink' to="cocum" smooth={true}>CO-CURRICULARS</Link>
+          <Link className='secLink' to="projects" smooth={true}>PROJECTS</Link>
         </nav>
         </Navbar.Collapse>
     </Navbar>

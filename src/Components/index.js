@@ -1,6 +1,7 @@
 export { default as Navbar } from './Navbar/Navbar'
 export { default as EmpCard } from './EmployementCard/EmpCard'
 export { default as ProjCard } from './ProjectCard/ProjCard'
+export { default as ProjCard1 } from './ProjectCard copy/ProjCard1'
 export { default as HeaderTextLine } from './Heading/HeaderTextLine'
 export { default as HeaderText } from './Heading/HeaderText'
 export { default as HeroText } from './Heading/HeroText'

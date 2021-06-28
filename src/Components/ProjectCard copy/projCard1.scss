@@ -1,0 +1,30 @@
+.proj_container {
+    width: 100%;
+    padding: 30px;
+    background: rgba(182, 182, 182, 0.25);
+    backdrop-filter: blur( 6.0px );
+    -webkit-backdrop-filter: blur( 6.0px );
+    border-radius: 5px;
+	position: relative; 
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.proj_duration {    
+    font-family: 'Roboto Mono', monospace;
+    color: #BEFFF0;
+    font-weight: 300;
+}
+
+.proj_content {
+    color: #E2E2E2;
+    font-weight: 300;
+}
+
+.proj_logo {
+    margin: 0px 4px;
+    &:hover{
+        cursor: pointer;
+    }
+}
